@@ -12,7 +12,7 @@ directory to *folder-name*. For example, if your current working directory is
 `cd my-code-project` to move into that folder.
 
 To learn more, check out
-(this tutorial)[https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line]. 
+[this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line).
 
 ## Installing Git
 Installing [homebrew](https://brew.sh/) if you don't have it already is recommended.
@@ -20,7 +20,7 @@ Then you can install Git by running ```brew install git``` in your terminal.
 
 ## Setting up a GitHub repository
 Make a GitHub account, then go to [https://github.com/new](https://github.com/new)
-to make a new repository. Name it *[your-username-here]*.github.io (for example,
+to make a new repository. Name it *your-username-here*.github.io (for example,
 reeceyang.github.io). Select the "Add a README file" checkbox.
 
 ## Cloning your repo to your computer
